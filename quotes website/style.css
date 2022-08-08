@@ -1,0 +1,85 @@
+
+
+
+
+
+.footer{
+    background-color:#3361FF ;
+    margin: auto;
+    padding: 4%;
+    text-align: center;
+    
+    
+}
+
+.contact{
+    display:flexbox;
+    margin: auto;
+    padding: 0;
+   
+    background-color:aqua;
+    text-align: center;
+    justify-content: space-between;
+    background-color:#33FFF6;
+}
+
+.zinda{
+    background-color: aliceblue;
+    text-align: center;
+     font-weight: 100;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: x-large;
+   
+}
+
+h3{
+    font-size: xx-large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+ .a6 {
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+ }
+.a5{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.a4{
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.a3{
+
+    text-align: center;
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.a1{
+    display: flexbox;
+    text-align: center;
+    font-size: 2rem;
+    margin:4px 3px 4px 2px;
+    padding: 2px 4px;
+    border: 2% solid;
+}
+
+.i{
+    row-gap: 10px;
+}
+ 
+
+    
+.container-fluid{
+    padding: 2px;
+    margin: auto;
+}
+
+section li{
+    padding: 30px;
+}
